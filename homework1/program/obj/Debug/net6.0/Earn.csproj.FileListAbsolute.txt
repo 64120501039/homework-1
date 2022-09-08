@@ -1,0 +1,15 @@
+D:\Earn\bin\Debug\net6.0\Earn.exe
+D:\Earn\bin\Debug\net6.0\Earn.deps.json
+D:\Earn\bin\Debug\net6.0\Earn.runtimeconfig.json
+D:\Earn\bin\Debug\net6.0\Earn.dll
+D:\Earn\bin\Debug\net6.0\ref\Earn.dll
+D:\Earn\bin\Debug\net6.0\Earn.pdb
+D:\Earn\obj\Debug\net6.0\Earn.csproj.AssemblyReference.cache
+D:\Earn\obj\Debug\net6.0\Earn.GeneratedMSBuildEditorConfig.editorconfig
+D:\Earn\obj\Debug\net6.0\Earn.AssemblyInfoInputs.cache
+D:\Earn\obj\Debug\net6.0\Earn.AssemblyInfo.cs
+D:\Earn\obj\Debug\net6.0\Earn.csproj.CoreCompileInputs.cache
+D:\Earn\obj\Debug\net6.0\Earn.dll
+D:\Earn\obj\Debug\net6.0\ref\Earn.dll
+D:\Earn\obj\Debug\net6.0\Earn.pdb
+D:\Earn\obj\Debug\net6.0\Earn.genruntimeconfig.cache
